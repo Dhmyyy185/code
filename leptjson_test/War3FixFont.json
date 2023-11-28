@@ -1,0 +1,8 @@
+{
+  "UseHotKey": true,
+  "HotKey": "0,1,1,D",
+  "WindowMode": 1,
+  "UseTimer": false,
+  "TimerInterval": 60,
+  "FixThreshold": 1
+}

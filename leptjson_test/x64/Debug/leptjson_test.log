@@ -1,0 +1,8 @@
+﻿  test.c
+C:\Users\Myy\source\repos\leptjson_test\test.c(572,33): warning C4244: “函数”: 从“size_t”转换到“double”，可能丢失数据
+C:\Users\Myy\source\repos\leptjson_test\test.c(605,29): warning C4244: “函数”: 从“size_t”转换到“double”，可能丢失数据
+C:\Users\Myy\source\repos\leptjson_test\test.c(649,23): warning C4267: “+=”: 从“size_t”转换到“char”，可能丢失数据
+C:\Users\Myy\source\repos\leptjson_test\test.c(651,33): warning C4244: “函数”: 从“size_t”转换到“double”，可能丢失数据
+C:\Users\Myy\source\repos\leptjson_test\test.c(658,23): warning C4267: “+=”: 从“size_t”转换到“char”，可能丢失数据
+C:\Users\Myy\source\repos\leptjson_test\test.c(686,21): warning C4267: “+=”: 从“size_t”转换到“char”，可能丢失数据
+  leptjson_test.vcxproj -> C:\Users\Myy\source\repos\leptjson_test\x64\Debug\leptjson_test.exe
